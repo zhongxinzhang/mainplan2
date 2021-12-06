@@ -1,0 +1,14 @@
+F:\Project\Mailplan2\Mailplan2\bin\Debug\Mailplan2.exe.config
+F:\Project\Mailplan2\Mailplan2\bin\Debug\Mailplan2.exe
+F:\Project\Mailplan2\Mailplan2\bin\Debug\Mailplan2.pdb
+F:\Project\Mailplan2\Mailplan2\bin\Debug\BouncyCastle.Crypto.dll
+F:\Project\Mailplan2\Mailplan2\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Project\Mailplan2\Mailplan2\bin\Debug\NPOI.dll
+F:\Project\Mailplan2\Mailplan2\bin\Debug\NPOI.OOXML.dll
+F:\Project\Mailplan2\Mailplan2\bin\Debug\NPOI.OpenXml4Net.dll
+F:\Project\Mailplan2\Mailplan2\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\Project\Mailplan2\Mailplan2\bin\Debug\BouncyCastle.Crypto.xml
+F:\Project\Mailplan2\Mailplan2\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\Project\Mailplan2\Mailplan2\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Project\Mailplan2\Mailplan2\obj\Debug\Mailplan2.exe
+F:\Project\Mailplan2\Mailplan2\obj\Debug\Mailplan2.pdb
